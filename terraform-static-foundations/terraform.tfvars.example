@@ -1,0 +1,8 @@
+environment         = "dev"
+bucket_name_prefix  = "your-bucket-prefix"
+
+tags = {
+  Project     = "YourProject"
+  Owner       = "YourName"
+  CostCenter  = "YourTeam"
+}
