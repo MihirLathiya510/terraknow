@@ -1,0 +1,7 @@
+environment  = "dev"
+project_name = "urlshortener"
+
+tags = {
+  Project = "URLShortener"
+  Owner   = "PlatformTeam"
+}
